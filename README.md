@@ -1,6 +1,6 @@
 ### Sabri Ünal 👋
 
-- 👯 Interested in collaborating on Linux, GNOME, and FOSS translations.
+- 👯 Interested in collaborating on Linux, GNOME, Flathub and FOSS translations.
 - 📫 How to reach me:
   - yakushabb_at_gmail_dot_com
 - 🦇 Realty:
