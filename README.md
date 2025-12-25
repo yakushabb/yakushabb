@@ -1,4 +1,6 @@
 ### Sabri Ünal 👋
+___Hazelnut farmer. Member of @GNOME Foundation. @flathub maintainer.___
+
 
 - 👯 Interested in collaborating on Linux, GNOME, Flathub and FOSS translations.
 - 📫 How to reach me:
